@@ -3,7 +3,7 @@
 **`Backend Dev`**
 
 ### 👨‍💻 About me:
-👋Hi there! I'm 13-year-old Backend programmer with a great passion for the programming word.I had started learning programming when i was 12, now i'm currently 14 years old.
+👋Hi there! I'm 14-year-old Backend programmer with a great passion for the programming word.I had started learning programming when i was 12, now i'm currently 14 years old.
 
 
 - 🔭 Successfully completed 1 Little cource
